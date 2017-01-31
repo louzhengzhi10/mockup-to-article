@@ -1,0 +1,25 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+> What new skills have you learned?
+
+I have learned basic HTML syntax and some important HTML elements.
+
+Every HTML file conforms a "template" including a head and a body. Elements in HTML are organized through a tree structure. Each individual element has its own content surrounded by tags.
+
+I also learned some specific elements, including headers, paragraphs, links, lists (ordered/unordered), images, figures, and buttons. Also, I have practiced to look up new elements in the reference. 
+
+
+> What has been easy?
+
+Everything has been easy.
+
+
+> What has been difficult?
+
+Nothing has been difficult.
